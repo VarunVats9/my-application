@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UiInputsMenuBar</string>
+    <string name="param">In case that helps anyone, I had the same issue today where the tabs were missing. I had switched to the dark theme and thought maybe that was the issue, so went back to Preferences switched back to Default Theme, and that reset everything correctly for me. I could also then switch again to Darcula theme and the tabs were still there, so seems like switching themes is a way to reset the IDE windows/tabs.</string>
+</resources>
